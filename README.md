@@ -74,6 +74,7 @@ Only mark networks as Private if you trust them (your home, not a café).
 | Problem | Try |
 |---|---|
 | The phone can't open the page | Same Wi-Fi on both? Was "Let phones reach this PC" done on this network? |
+| The pointer moves but keys and clicks do nothing (phone: "An admin window is in front") | An installer or another program running as administrator is in front; Windows doesn't let Atlas type or click into it. Use the PC's mouse for that window |
 | "Your connection is not private" on the phone | Do step 2 on the PC page (free name), then scan the QR code again |
 | The pointer doesn't move (Mac) | Accessibility permission (Mac step 4), then restart Atlas |
 | The phone asks to pair again | It was removed or not used for a long time; scan the QR code again |
