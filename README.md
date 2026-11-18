@@ -29,6 +29,8 @@ how to get past that.
    3. **Pair your phone.** Scan the QR code with the phone (same Wi-Fi).
 3. On the phone: install the Atlas app when the page offers it (Android), or use the page in the
    browser and add it to the home screen.
+   **iPhone:** use it in Safari. Without the free name from step 2, the page shows how to trust
+   Atlas once (a profile in Settings, then **Certificate Trust Settings**).
 
 Atlas then runs as an icon next to the clock (double-click: the PC page; right-click: **Stop Atlas**)
 and starts when you sign in.
@@ -75,7 +77,7 @@ Only mark networks as Private if you trust them (your home, not a café).
 |---|---|
 | The phone can't open the page | Same Wi-Fi on both? Was "Let phones reach this PC" done on this network? |
 | The pointer moves but keys and clicks do nothing (phone: "An admin window is in front") | An installer or another program running as administrator is in front; Windows doesn't let Atlas type or click into it. Use the PC's mouse for that window |
-| "Your connection is not private" on the phone | Do step 2 on the PC page (free name), then scan the QR code again |
+| "Your connection is not private" on the phone | Do step 2 on the PC page (free name), then scan the QR code again. iPhone: also check Settings → General → About → Certificate Trust Settings → **Project Atlas** is on |
 | The pointer doesn't move (Mac) | Accessibility permission (Mac step 4), then restart Atlas |
 | The phone asks to pair again | It was removed or not used for a long time; scan the QR code again |
 | Xbox controller in the Console tab doesn't work | PC page → **Xbox controller driver** → Download, install it, restart Atlas |
