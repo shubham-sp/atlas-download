@@ -12,6 +12,7 @@ Get the newest version from **[Releases](../../releases/latest)**:
 |---|---|
 | `Atlas-Setup-<version>.exe` | Windows 10 / 11 (64-bit) |
 | `Project-Atlas-Mac-<version>.zip` | Mac with macOS 13.5 (Ventura) or newer, Apple chip or Intel |
+| `Atlas.apk` | The Android app (also offered by your PC; this download is the safest, it comes encrypted from GitHub) |
 | `INSTALL-TEST-MANUAL.md` | Step-by-step install and test guide, also for AI assistants |
 
 The files aren't signed yet, so Windows and macOS warn you the first time. The steps below show
